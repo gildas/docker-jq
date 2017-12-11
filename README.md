@@ -7,3 +7,7 @@ Examples:
 ```
 cat myjson.json | docker run -i --rm gildas/jq '.entry.files[]'
 ```
+
+By default, these options are used:
+
+- -C
