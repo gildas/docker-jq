@@ -1,0 +1,3 @@
+services:
+  docker-jq:
+    build: https://github.com/gildas/docker-jq.git
