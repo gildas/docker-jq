@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.15
 LABEL maintainer="Gildas Cherruel <gildas@breizh.org>"
 LABEL version="0.0.2"
 LABEL description="Runs jq, the JSON processor"
